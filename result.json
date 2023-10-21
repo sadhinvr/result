@@ -1,0 +1,319 @@
+[{
+    "roll": 515208,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-II", "Mathematics-III", "Digital Electronics-I", "Application Development Using Python"]
+    }
+}, {
+    "roll": 515223,
+    "result": {
+        "passed": false,
+        "sub": ["Physics -II", "Mathematics-III", "Digital Electronics-I", "Python Programming", "Application Development Using Python"]
+    }
+}, {
+    "roll": 515302,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-II", "Physics -II", "Mathematics-III", "Basic Electricity", "Digital Electronics-I", "Application Development Using Python", "IT Support Services"]
+    }
+}, {
+    "roll": 616300,
+    "result": {
+        "passed": true,
+        "point": "3.35"
+    }
+}, {
+    "roll": 616302,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-II", "Mathematics-III"]
+    }
+}, {
+    "roll": 616304,
+    "result": {
+        "passed": false,
+        "sub": ["Physics -II"]
+    }
+}, {
+    "roll": 616305,
+    "result": {
+        "passed": true,
+        "point": "3.37"
+    }
+}, {
+    "roll": 616306,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616307,
+    "result": {
+        "passed": true,
+        "point": "3.65"
+    }
+}, {
+    "roll": 616308,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616309,
+    "result": {
+        "passed": true,
+        "point": "3.21"
+    }
+}, {
+    "roll": 616311,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616312,
+    "result": {
+        "passed": false,
+        "sub": ["Physics -II"]
+    }
+}, {
+    "roll": 616313,
+    "result": {
+        "passed": true,
+        "point": "3.75"
+    }
+}, {
+    "roll": 616314,
+    "result": {
+        "passed": true,
+        "point": "3.20"
+    }
+}, {
+    "roll": 616315,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-III"]
+    }
+}, {
+    "roll": 616316,
+    "result": {
+        "passed": true,
+        "point": "3.54"
+    }
+}, {
+    "roll": 616317,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-III", "Digital Electronics-I", "Application Development Using Python"]
+    }
+}, {
+    "roll": 616318,
+    "result": {
+        "passed": true,
+        "point": "3.90"
+    }
+}, {
+    "roll": 616319,
+    "result": {
+        "passed": true,
+        "point": "3.94"
+    }
+}, {
+    "roll": 616320,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616321,
+    "result": {
+        "passed": true,
+        "point": "3.26"
+    }
+}, {
+    "roll": 616322,
+    "result": {
+        "passed": true,
+        "point": "3.62"
+    }
+}, {
+    "roll": 616324,
+    "result": {
+        "passed": false,
+        "sub": ["Digital Electronics-I", "Application Development Using Python"]
+    }
+}, {
+    "roll": 616325,
+    "result": {
+        "passed": false,
+        "sub": ["Digital Electronics-I", "Application Development Using Python"]
+    }
+}, {
+    "roll": 616326,
+    "result": {
+        "passed": true,
+        "point": "2.73"
+    }
+}, {
+    "roll": 616327,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-III"]
+    }
+}, {
+    "roll": 616328,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-III"]
+    }
+}, {
+    "roll": 616329,
+    "result": {
+        "passed": true,
+        "point": "3.49"
+    }
+}, {
+    "roll": 616330,
+    "result": {
+        "passed": false,
+        "sub": ["Physics -II", "Mathematics-III", "Digital Electronics-I"]
+    }
+}, {
+    "roll": 616331,
+    "result": {
+        "passed": true,
+        "point": "3.50"
+    }
+}, {
+    "roll": 616333,
+    "result": {
+        "passed": true,
+        "point": "3.93"
+    }
+}, {
+    "roll": 616334,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-II", "Physics -II", "Digital Electronics-I", "Python Programming", "Application Development Using Python", "IT Support Services"]
+    }
+}, {
+    "roll": 616335,
+    "result": {
+        "passed": true,
+        "point": "3.85"
+    }
+}, {
+    "roll": 616336,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-II", "Mathematics-III"]
+    }
+}, {
+    "roll": 616337,
+    "result": {
+        "passed": false,
+        "sub": ["Mathematics-III", "Application Development Using Python"]
+    }
+}, {
+    "roll": 616338,
+    "result": {
+        "passed": true,
+        "point": "3.19"
+    }
+}, {
+    "roll": 616339,
+    "result": {
+        "passed": true,
+        "point": "2.83"
+    }
+}, {
+    "roll": 616340,
+    "result": {
+        "passed": true,
+        "point": "4.00"
+    }
+}, {
+    "roll": 616341,
+    "result": {
+        "passed": true,
+        "point": "3.38"
+    }
+}, {
+    "roll": 616342,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616343,
+    "result": {
+        "passed": true,
+        "point": "3.35"
+    }
+}, {
+    "roll": 616344,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616347,
+    "result": {
+        "passed": false,
+        "sub": ["IT Support Services"]
+    }
+}, {
+    "roll": 616349,
+    "result": {
+        "passed": false,
+        "sub": ["Physics -II", "Application Development Using Python"]
+    }
+}, {
+    "roll": 616350,
+    "result": {
+        "passed": true,
+        "point": "3.57"
+    }
+}, {
+    "roll": 616351,
+    "result": {
+        "passed": true,
+        "point": "3.05"
+    }
+}, {
+    "roll": 616353,
+    "result": {
+        "passed": false,
+        "sub": ["Application Development Using Python"]
+    }
+}, {
+    "roll": 616354,
+    "result": {
+        "passed": true,
+        "point": "2.95"
+    }
+}, {
+    "roll": 617653,
+    "result": {
+        "passed": true,
+        "point": "2.88"
+    }
+}, {
+    "roll": 617668,
+    "result": {
+        "passed": true,
+        "point": "3.49"
+    }
+}, {
+    "roll": 640314,
+    "result": {
+        "passed": true,
+        "point": "2.89"
+    }
+}, {
+    "roll": 676815,
+    "result": {
+        "passed": true,
+        "point": "3.20"
+    }
+}]
