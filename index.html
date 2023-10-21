@@ -14,7 +14,14 @@
 
     <div class="container">
         <h2 class="mt-3">Bogura polytechnic Cst Result</h2>
-        <h5 class="mt-3">Total: <span id="count"></span></h5>
+        <h5 class="mt-3">Total: <span id="count"></span> &nbsp;&nbsp;&nbsp; passed: <span id="passed"></span>
+            &nbsp;&nbsp;&nbsp; failed: <span id="failed"></span></h5>
+
+        <!-- <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username"
+                aria-describedby="button-addon2">
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2">Button</button>
+        </div> -->
 
         <table class="mt-5 table table-striped table-bordered ">
             <thead>
@@ -359,12 +366,15 @@
                 "point": "3.20"
             }
         }]
+        let passed = result.filter(cur => cur.result.passed == true).length;
 
         document.getElementById('count').innerText = result.length;
+        document.getElementById('passed').innerText = passed;
+        document.getElementById('failed').innerText = result.length - passed;
         document.getElementById('res').innerHTML = result.map(cur => {
-            return ` <tr>
+            return ` <tr >
                         <th>${cur.roll}</th>
-                        <td>${cur.result.passed ? cur.result.point : 'F'}</td>
+                        <td style="${cur.result.passed?'':"color:tomato" }">${cur.result.passed ? cur.result.point : 'F'}</td>
                         <td>${cur.result.passed ? '' : cur.result.sub.join(' , ')}</td>
                      </tr>`
         }).join('');
